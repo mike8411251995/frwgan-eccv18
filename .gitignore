@@ -1,3 +1,5 @@
 src/data/*
 util
 *.pyc
+data/datasets.zip
+data/datasets/*
