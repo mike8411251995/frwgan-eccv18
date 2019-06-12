@@ -3,3 +3,4 @@ util
 *.pyc
 data/datasets.zip
 data/datasets/*
+*.h5
